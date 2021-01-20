@@ -1,8 +1,8 @@
 import React from 'react'
-import placeholder from './components/placeholder'
+import TestimonialBoxSwitcher from './components/TestimonialBoxSwitcher'
 
 const App = () => {
-  return <placeholder />
+  return <TestimonialBoxSwitcher />
 }
 
 export default App
